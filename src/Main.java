@@ -8,7 +8,8 @@ public class Main {
         // --- TODO: Step 2 ---
         // Instantiate your first student object heretu
         // Example: Student s1 = new Student("Abebe Kassa", 12345);
-        Student student1 = new Student("nesredin",985);
+        Student student1 = new Student("nesredin", 985);
+
 
         // --- TODO: Step 3 ---
         // Instantiate your second student object here
